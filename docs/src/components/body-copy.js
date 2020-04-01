@@ -5,11 +5,4 @@ export const BodyCopy = styled.p`
   line-height: 1.5;
   color: #4e4e4e;
   text-align: center;
-  margin: 0 auto;
-  width: 100%;
-  @media (max-width: 768px) {
-    p {
-      text-align: center;
-    }
-  }
 `;
